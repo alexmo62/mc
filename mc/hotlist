@@ -1,0 +1,26 @@
+GROUP "pacman"
+  ENTRY "/home/alexpad/MEGA/linux/instalace/archcraft" URL "/home/alexpad/MEGA/linux/instalace/archcraft"
+  GROUP "drive-go"
+    ENTRY "/run/media/alexpad/drive_go/pacman" URL "/run/media/alexpad/drive_go/pacman"
+  ENDGROUP
+  ENTRY "/etc/pacman.d" URL "/etc/pacman.d"
+ENDGROUP
+GROUP "m"
+  ENTRY "/home/alexpad/m/config_archraft " URL "/home/alexpad/m/config_archraft "
+  ENTRY "/home/alexpad/m" URL "/home/alexpad/m"
+ENDGROUP
+GROUP "wine"
+  ENTRY "/home/alexpad/.wine/drive_c/Program Files (x86)" URL "/home/alexpad/.wine/drive_c/Program Files (x86)"
+ENDGROUP
+GROUP "root"
+  ENTRY "/home/alexpad/MEGA/linux" URL "/home/alexpad/MEGA/linux"
+  ENTRY "/home/alexpad" URL "/home/alexpad"
+ENDGROUP
+GROUP "drive-go"
+  ENTRY "/run/media/alexpad/drive_go/Windows 11" URL "/run/media/alexpad/drive_go/Windows 11"
+  ENTRY "/run/media/alexpad/drive_go/install" URL "/run/media/alexpad/drive_go/install"
+  ENTRY "/run/media/alexpad/drive_go" URL "/run/media/alexpad/drive_go"
+ENDGROUP
+GROUP "config"
+  ENTRY "/home/alexpad/.config" URL "/home/alexpad/.config"
+ENDGROUP
